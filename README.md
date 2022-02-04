@@ -19,7 +19,10 @@
 - [8808 Formula One Racer (1994)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8808-1)
 - [8205 Bungee Blaster (1997)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8205-1)
 
+## Mindstorms
 
+- [8527 Mindstorms NXT (2006)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)
+- [31313 Mindstorms EV3 (2013)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=31313-1)
 
 ## Not sure
 
