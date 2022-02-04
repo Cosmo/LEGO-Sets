@@ -7,6 +7,7 @@
 - [4564 Freight Rail Runner (1994)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=4564-1)
 - [4531](https://www.bricklink.com/v2/catalog/catalogitem.page?S=4531-1)
 - [6889](https://www.bricklink.com/v2/catalog/catalogitem.page?S=6889-1)
+- [6716](https://www.bricklink.com/v2/catalog/catalogitem.page?S=6716-1)
 
 ## Technic
 
@@ -16,6 +17,8 @@
 - [8720](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8720-1)
 - [8714](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8714-1)
 - [8808](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8808-1)
+- [8205](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8205-1)
+- [8422](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8422-1)
 
 
 
