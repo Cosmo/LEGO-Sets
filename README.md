@@ -1,5 +1,7 @@
 # LEGO-Sets
 
+I keep forgetting which LEGO sets I own. So here's an uncomplete list:
+
 ## System
 
 - [6533 Police 4x4 (1992)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=6533-1)
