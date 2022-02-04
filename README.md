@@ -1,6 +1,6 @@
 # LEGO-Sets
 
-I keep forgetting which LEGO sets I own. So here's an uncomplete list:
+I keep forgetting which LEGO sets I own (thanks mom and dad, btw!). So here's an uncomplete list:
 
 ## System
 
